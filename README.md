@@ -4,7 +4,7 @@ This project is Tic tac toe game with redux
 
 ## See the project online
 
-You can see the project online in [Tic tac toe](https://sirpak-card-ttt-game.surge.sh)
+You can see the project online in [Tic tac toe](https://sirpak-ttt-game.surge.sh)
 
 # Installation
 
